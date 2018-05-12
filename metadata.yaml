@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2657
     wikipedia: http://en.wikipedia.org/wiki/Robert_Herrick_(novelist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19656#One-Woman-s-Life
 gutenberg_issued: '2006-10-29'
 gutenberg_type: Text
 identifiers:
